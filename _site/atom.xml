@@ -4,7 +4,7 @@
  <title>Dota2VN Comic</title>
  <link href="http://comic.dota2vn.com/atom.xml" rel="self"/>
  <link href="http://comic.dota2vn.com/"/>
- <updated>2015-05-06T13:47:08+00:00</updated>
+ <updated>2015-05-06T14:39:13+00:00</updated>
  <id>http://comic.dota2vn.com</id>
  <author>
    <name>Krad</name>
@@ -35,17 +35,6 @@
 &lt;li&gt;&lt;img src=&quot;../../static/database/the-summoning/014.jpg&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
 &lt;li&gt;&lt;img src=&quot;../../static/database/the-summoning/015.jpg&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
 &lt;ul&gt;
-
-&lt;div class=&quot;ui icon blue message&quot;&gt;
-  &lt;i class=&quot;pointing-right icon&quot;&gt;&lt;/i&gt;
-  &lt;div class=&quot;content&quot;&gt;
-    &lt;div class=&quot;header&quot;&gt;
-      Nhấn Spacebar hoặc click vào hình để sang trang tiếp theo
-    &lt;/div&gt;
-    &lt;p&gt;Nếu không sang được thì thôi!&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
 
 &lt;/ul&gt;&lt;/ul&gt;&lt;/div&gt;
 </content>

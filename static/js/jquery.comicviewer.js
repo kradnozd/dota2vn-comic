@@ -31,7 +31,7 @@
 function setFramePosition(pos){
     var imageHeight = $('.read-comic').height();
     //calculate position
-    var px = imageHeight*pos*-1;
+    var px = (imageHeight)*pos*-1;
     //set ul top position
     $('.read-comic ul').animate({
         top: px

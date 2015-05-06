@@ -22,14 +22,3 @@ title: The Summoning
 <li><img src="../../static/database/the-summoning/015.jpg" alt="" /></li>
 <ul>
 </div>
-<div class="ui icon blue message">
-  <i class="pointing-right icon"></i>
-  <div class="content">
-    <div class="header">
-      Nhấn Spacebar hoặc click vào hình để sang trang tiếp theo
-    </div>
-    <p>Nếu không sang được thì thôi!</p>
-  </div>
-</div>
-
-

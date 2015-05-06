@@ -1,13 +1,9 @@
 body {
     background: #111;
 }
-.wrapper {
-    background: #111;
-    background-attachment: fixed;
-}
 
 .main-wrapper {
-    padding-top: 7rem !important;
+    padding-top: 9rem;
 }
 
 .main-wrapper img {
@@ -24,6 +20,7 @@ body {
     cursor: pointer;
     border: 15px solid #fff;
     box-sizing: content-box;
+    margin: 0 auto;
 }
 .read-comic ul {
     position: absolute;
