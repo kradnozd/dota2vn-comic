@@ -3,8 +3,25 @@ body {
 }
 
 .main-wrapper {
-    padding-top: 9rem;
+    margin-top: 44px;
 }
+
+@media only screen and (max-width : 998px) {
+   .main-wrapper {
+        margin-top: 84px;
+    } 
+}
+@media only screen and (max-width : 600px) {
+   .main-wrapper {
+        margin-top: 124px;
+    } 
+}
+@media only screen and (max-width : 400px) {
+   .main-wrapper {
+        margin-top: 164px;
+    } 
+}
+
 
 .main-wrapper img {
     max-width: 100%;
@@ -20,17 +37,16 @@ body {
     cursor: pointer;
     border: 15px solid #fff;
     box-sizing: content-box;
-    margin: 0 auto;
+    margin: 120px auto 0;
 }
 .read-comic ul {
     position: absolute;
     list-style: none;
-    margin: 0;
-    padding: 0;
 }
-.read-comic ul li {
+.read-comic ul, .read-comic ul li, .read-comic ul img {
     margin: 0;
     padding: 0;
+    line-height: 0;
 }
 
 .ninja {
