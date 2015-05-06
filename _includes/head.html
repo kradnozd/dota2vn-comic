@@ -1,0 +1,22 @@
+<head>
+  <meta charset="UTF-8">
+
+  <!-- Responsiveeeeeee -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>
+    {% if page.title == "Home" %}
+      {{ site.title }} &middot; {{ site.tagline }}
+    {% else %}
+      {{ page.title }} &middot; {{ site.title }}
+    {% endif %}
+  </title>
+
+  <!-- Outworld Decorator -->
+  <link rel="stylesheet" href="{{ site.baseurl }}static/semantic-ui/dist/semantic.min.css" type="text/css" />
+  <link rel="stylesheet" href="{{ site.baseurl }}static/css/style.css" type="text/css" />
+  <link rel="shortcut icon" href="{{ site.baseurl }}favicon.png">
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.baseurl }}atom.xml">
+</head>

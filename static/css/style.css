@@ -1,0 +1,41 @@
+body {
+    background: #111;
+}
+.wrapper {
+    background: #111;
+    background-attachment: fixed;
+}
+
+.main-wrapper {
+    padding-top: 7rem !important;
+}
+
+.main-wrapper img {
+    max-width: 100%;
+}
+
+.brand {
+    padding: 0 5px !important;
+}
+
+.read-comic {
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+    border: 15px solid #fff;
+    box-sizing: content-box;
+}
+.read-comic ul {
+    position: absolute;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.read-comic ul li {
+    margin: 0;
+    padding: 0;
+}
+
+.ninja {
+    display: none;
+}

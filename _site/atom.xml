@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Dota2VN Comic</title>
+ <link href="http://comic.dota2vn.com/atom.xml" rel="self"/>
+ <link href="http://comic.dota2vn.com/"/>
+ <updated>2015-05-06T13:47:08+00:00</updated>
+ <id>http://comic.dota2vn.com</id>
+ <author>
+   <name>Krad</name>
+   <email>kradnozd@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>The Summoning</title>
+   <link href="http://comic.dota2vn.com//file/the-summoning"/>
+   <updated>2015-05-06T00:00:00+00:00</updated>
+   <id>http://comic.dota2vn.com/file/the-summoning</id>
+   <content type="html">&lt;div class=&quot;read-comic&quot; style=&quot;width:1000px; height: 750px;&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;img src=&quot;../../static/database/the-summoning/001.jpg&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img src=&quot;../../static/database/the-summoning/002.jpg&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img src=&quot;../../static/database/the-summoning/003.jpg&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img src=&quot;../../static/database/the-summoning/004.jpg&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img src=&quot;../../static/database/the-summoning/005.jpg&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img src=&quot;../../static/database/the-summoning/006.jpg&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img src=&quot;../../static/database/the-summoning/007.jpg&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img src=&quot;../../static/database/the-summoning/008.jpg&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img src=&quot;../../static/database/the-summoning/009.jpg&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img src=&quot;../../static/database/the-summoning/010.jpg&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img src=&quot;../../static/database/the-summoning/011.jpg&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img src=&quot;../../static/database/the-summoning/012.jpg&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img src=&quot;../../static/database/the-summoning/013.jpg&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img src=&quot;../../static/database/the-summoning/014.jpg&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img src=&quot;../../static/database/the-summoning/015.jpg&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;ul&gt;
+
+&lt;div class=&quot;ui icon blue message&quot;&gt;
+  &lt;i class=&quot;pointing-right icon&quot;&gt;&lt;/i&gt;
+  &lt;div class=&quot;content&quot;&gt;
+    &lt;div class=&quot;header&quot;&gt;
+      Nhấn Spacebar hoặc click vào hình để sang trang tiếp theo
+    &lt;/div&gt;
+    &lt;p&gt;Nếu không sang được thì thôi!&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;/ul&gt;&lt;/ul&gt;&lt;/div&gt;
+</content>
+ </entry>
+ 
+
+</feed>

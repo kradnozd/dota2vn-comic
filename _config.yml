@@ -1,0 +1,19 @@
+# Permalinks
+permalink:        /file/:title
+relative_permalinks: true
+
+# Setup
+title:            Dota2VN Comic
+tagline:          Truyện tranh dịch Dota 2
+url:              http://comic.dota2vn.com
+paginate:         1
+baseurl:          /
+author:
+  name:           Krad
+  url:            https://twitter.com/kradnozd
+  email:          kradnozd@gmail.com
+
+# Custom vars
+version:          2.0.1
+github:
+  repo:           https://github.com/kradnozd/dota2vn-comic
