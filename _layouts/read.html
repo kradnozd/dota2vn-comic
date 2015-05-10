@@ -2,7 +2,13 @@
 layout: default
 ---
 
-<article class="post">
+<article class="ui inverted segment centered grid post">
   <h1 class="post-title text-center ninja">{{ page.title }}</h1>
+  <div class="ui thirteen wide column">
   {{ content }}
+  </div>
 </article>
+
+<div class="ui inverted segment one column center aligned">
+  <div class="fb-comments" data-href="{{ site.url }}{{ page.url }}/" data-width="648" data-numposts="9" data-colorscheme="dark"></div>
+</div>

@@ -1,27 +1,9 @@
 body {
-    background: #111;
+    background: #1b1c1d;
 }
-
-.main-wrapper {
-    margin-top: 44px;
+.ui.inverted.menu {
+    background-color: rgba(0,0,0,0.8);
 }
-
-@media only screen and (max-width : 998px) {
-   .main-wrapper {
-        margin-top: 84px;
-    } 
-}
-@media only screen and (max-width : 600px) {
-   .main-wrapper {
-        margin-top: 124px;
-    } 
-}
-@media only screen and (max-width : 400px) {
-   .main-wrapper {
-        margin-top: 164px;
-    } 
-}
-
 
 .main-wrapper img {
     max-width: 100%;
@@ -37,7 +19,11 @@ body {
     cursor: pointer;
     border: 15px solid #fff;
     box-sizing: content-box;
-    margin: 120px auto 0;
+    margin: 0 auto;
+    padding: 0 !important;
+    -webkit-box-shadow: 0px 0px 90px 0px rgba(161,32,32,1);
+    -moz-box-shadow: 0px 0px 90px 0px rgba(161,32,32,1);
+    box-shadow: 0px 0px 90px 0px rgba(161,32,32,1);
 }
 .read-comic ul {
     position: absolute;
@@ -51,4 +37,7 @@ body {
 
 .ninja {
     display: none;
+}
+.clearfix {
+    overflow: auto;
 }

@@ -1,7 +1,8 @@
- $(window).ready(function() {
- 	
+$(window).ready(function() {
+ 	var imageHeight = $(".read-comic li").height()
+    $(".read-comic").css('height',imageHeight);
+    
     var currentImage = 0;
-
     //set image count 
     var allImages = $('.read-comic li img').length;
 
@@ -26,6 +27,11 @@
        }
     });
 
+});
+
+$(window).resize(function() {
+    var imageHeight = $(".read-comic li").height()
+    $(".read-comic").css('height',imageHeight);
 });
 
 function setFramePosition(pos){

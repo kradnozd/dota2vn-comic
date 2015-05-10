@@ -4,7 +4,7 @@
  <title>Dota2VN Comic</title>
  <link href="http://comic.dota2vn.com/atom.xml" rel="self"/>
  <link href="http://comic.dota2vn.com/"/>
- <updated>2015-05-06T15:25:43+00:00</updated>
+ <updated>2015-05-10T11:21:54+00:00</updated>
  <id>http://comic.dota2vn.com</id>
  <author>
    <name>Krad</name>
@@ -17,8 +17,7 @@
    <link href="http://comic.dota2vn.com//file/the-summoning"/>
    <updated>2015-05-06T00:00:00+00:00</updated>
    <id>http://comic.dota2vn.com/file/the-summoning</id>
-   <content type="html">&lt;div class=&quot;comic-wrap&quot; style=&quot;background: url(&#39;http://cdn.dota2.com/apps/dota2/images/comic_thesummoning/slice_0.jpg?v=2741434&#39;) center 0 no-repeat #000; padding-top: 5px; min-height:1000px&quot;&gt;
-&lt;div class=&quot;read-comic&quot; style=&quot;width:1024px; height: 768px;&quot;&gt;
+   <content type="html">&lt;div class=&quot;read-comic&quot;&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;img src=&quot;../../static/database/the-summoning/001.jpg&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
 &lt;li&gt;&lt;img src=&quot;../../static/database/the-summoning/002.jpg&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
@@ -37,8 +36,7 @@
 &lt;li&gt;&lt;img src=&quot;../../static/database/the-summoning/015.jpg&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
 &lt;ul&gt;
 
-
-&lt;/ul&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/ul&gt;&lt;/ul&gt;&lt;/div&gt;
 </content>
  </entry>
  
