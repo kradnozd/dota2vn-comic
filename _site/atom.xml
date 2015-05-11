@@ -4,7 +4,7 @@
  <title>Dota2VN Comic</title>
  <link href="http://comic.dota2vn.com/atom.xml" rel="self"/>
  <link href="http://comic.dota2vn.com/"/>
- <updated>2015-05-10T11:21:54+00:00</updated>
+ <updated>2015-05-11T07:50:56+00:00</updated>
  <id>http://comic.dota2vn.com</id>
  <author>
    <name>Krad</name>
@@ -17,7 +17,7 @@
    <link href="http://comic.dota2vn.com//file/the-summoning"/>
    <updated>2015-05-06T00:00:00+00:00</updated>
    <id>http://comic.dota2vn.com/file/the-summoning</id>
-   <content type="html">&lt;div class=&quot;read-comic&quot;&gt;
+   <content type="html">&lt;div class=&quot;ui one column read-comic&quot;&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;img src=&quot;../../static/database/the-summoning/001.jpg&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
 &lt;li&gt;&lt;img src=&quot;../../static/database/the-summoning/002.jpg&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
@@ -34,9 +34,28 @@
 &lt;li&gt;&lt;img src=&quot;../../static/database/the-summoning/013.jpg&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
 &lt;li&gt;&lt;img src=&quot;../../static/database/the-summoning/014.jpg&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
 &lt;li&gt;&lt;img src=&quot;../../static/database/the-summoning/015.jpg&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;ul&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
 
-&lt;/ul&gt;&lt;/ul&gt;&lt;/div&gt;
+&lt;div class=&quot;ui black icon message&quot;&gt;
+  &lt;i class=&quot;pointing up icon&quot;&gt;&lt;/i&gt;
+  &lt;div class=&quot;content&quot;&gt;
+    &lt;div class=&quot;header&quot;&gt;
+      Nhấn Spacebar hoặc click vào hình để chuyển trang
+    &lt;/div&gt;
+    &lt;p&gt;Nếu không chuyển được thì thôi -_-&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;ui black icon message&quot;&gt;
+  &lt;i class=&quot;spy icon&quot;&gt;&lt;/i&gt;
+  &lt;div class=&quot;content&quot;&gt;
+    &lt;div class=&quot;header&quot;&gt;
+      Translator: Krad
+    &lt;/div&gt;
+    &lt;p&gt;kradnozd@gmail.com&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 </content>
  </entry>
  

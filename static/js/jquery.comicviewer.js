@@ -1,8 +1,6 @@
 $(window).ready(function() {
- 	var imageHeight = $(".read-comic li").height()
-    $(".read-comic").css('height',imageHeight);
-    
-    var currentImage = 0;
+
+    currentImage = 0;
     //set image count 
     var allImages = $('.read-comic li img').length;
 
@@ -29,10 +27,29 @@ $(window).ready(function() {
 
 });
 
-$(window).resize(function() {
-    var imageHeight = $(".read-comic li").height()
-    $(".read-comic").css('height',imageHeight);
+$(window).on('load', function() {
+    comicSizer('load');
 });
+$(window).on('resize', function() {
+    comicSizer('resize');
+    setFramePosition(currentImage);
+});
+
+window.onkeydown = function(e) { 
+  return !(e.keyCode == 32);
+};
+
+function comicSizer(status) {
+    var imgsHeight = $(".read-comic ul").height();
+    if (status == 'load') {
+        $(".read-comic").css('height', imgsHeight);
+        var imgHeight = $(".read-comic li").height();
+        $(".read-comic").css('height', imgHeight);    
+    } else {
+        var imgHeight = $(".read-comic li").height();
+        $(".read-comic").css('height', imgHeight);
+    }
+}
 
 function setFramePosition(pos){
     var imageHeight = $('.read-comic').height();

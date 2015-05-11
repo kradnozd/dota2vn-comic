@@ -34,6 +34,12 @@ body {
     padding: 0;
     line-height: 0;
 }
+.read-comic li {
+    display: block;
+}
+.read-comic img {
+    vertical-align: top;
+}
 
 .ninja {
     display: none;
